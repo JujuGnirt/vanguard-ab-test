@@ -1711,6 +1711,32 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
+name = "vanguard-ab-test"
+version = "0.1.0"
+source = { virtual = "." }
+dependencies = [
+    { name = "ipykernel" },
+    { name = "jupyter" },
+    { name = "matplotlib" },
+    { name = "numpy" },
+    { name = "pandas" },
+    { name = "seaborn" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "ipykernel", specifier = ">=6.29.5" },
+    { name = "jupyter", specifier = ">=1.1.1" },
+    { name = "matplotlib", specifier = ">=3.10.3" },
+    { name = "numpy", specifier = ">=2.3.1" },
+    { name = "pandas", specifier = ">=2.3.1" },
+    { name = "seaborn", specifier = ">=0.13.2" },
+]
+
+[[package]]
+>>>>>>> 4531264564a9b87a07a69d194eef4dd4931f1ce0
 name = "wcwidth"
 version = "0.2.13"
 source = { registry = "https://pypi.org/simple" }
@@ -1747,6 +1773,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "week5"
 version = "0.1.0"
 source = { virtual = "." }
@@ -1770,6 +1797,8 @@ requires-dist = [
 ]
 
 [[package]]
+=======
+>>>>>>> 4531264564a9b87a07a69d194eef4dd4931f1ce0
 name = "widgetsnbextension"
 version = "4.0.14"
 source = { registry = "https://pypi.org/simple" }

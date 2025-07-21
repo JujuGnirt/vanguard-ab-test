@@ -1,5 +1,9 @@
 [project]
+<<<<<<< HEAD
 name = "week5"
+=======
+name = "vanguard-ab-test"
+>>>>>>> 4531264564a9b87a07a69d194eef4dd4931f1ce0
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
