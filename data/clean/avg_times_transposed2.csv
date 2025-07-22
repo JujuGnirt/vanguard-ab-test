@@ -1,0 +1,5 @@
+process_step,Control,Test
+start_to_step1,80.71,79.2
+step1_to_step2,64.02,58.44
+step2_to_step3,100.73,104.2
+step3_to_confirm,135.89,143.44
