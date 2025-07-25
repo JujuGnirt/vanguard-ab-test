@@ -1,0 +1,5 @@
+Transition,Dropped Visits,Average Age,Gender Ratio (F),Gender Ratio (M),Gender Ratio (U),Percentage Error
+start ➜ step_1,5134,48.9,0.33,0.33,0.34,13.82
+step_1 ➜ step_2,3941,50.5,0.37,0.33,0.31,10.61
+step_2 ➜ step_3,2582,46.0,0.3,0.34,0.37,6.95
+step_3 ➜ confirm,3849,54.5,0.38,0.32,0.31,10.36
